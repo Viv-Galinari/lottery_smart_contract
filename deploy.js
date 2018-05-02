@@ -19,6 +19,6 @@ const deploy = async () => {
 
   console.log(interface);
   console.log('Contact deployed to ', result.options.address)  
-  //Contact deployed to   0x4e79db85dcFBfD0d2f88049Ded547209518BbF47
+  // Contact deployed to  0xB94D699759B376051A4751538993561028Ac8644
 }
 deploy()
